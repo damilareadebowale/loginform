@@ -1,0 +1,12 @@
+
+body{
+    background-color: greenyellow;
+}
+.form-container{
+    border: 2px solid;
+    padding: 50px 60px;
+    margin-top: 5vh;
+}
+.btn{
+    background-color: green;
+}
